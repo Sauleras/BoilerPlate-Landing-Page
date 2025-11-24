@@ -43,3 +43,6 @@ Este é um **boilerplate** para criar **landing pages** de forma rápida e efici
 3. Inicie o servidor de desenvolvimento:
    ```bash
    npm run dev
+   
+## Link para preview
+- https://sauleras.github.io/BoilerPlate-Landing-Page/
